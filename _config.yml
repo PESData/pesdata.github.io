@@ -1,0 +1,11 @@
+remote_theme: pmarsceill/just-the-docs
+
+title: PESD
+Description: Privacy Encodings for Sensitive Data
+ga_tracking: 
+
+permalink: pretty
+
+search_enabled: true
+plugins:
+- jekyll-seo-tag
