@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research Team
+Nav order: 2
 ---
 
 - [Nic Weber](https://www.http://nicweber.info/) (PI) - University of Washington, Information School
