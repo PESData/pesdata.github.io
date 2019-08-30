@@ -2,10 +2,8 @@
 layout: default
 title: Research Team
 nav_order: 2
----
 
-<p>
-<br>   
+---
   
 - [Nic Weber](https://nicweber.info/) (PI) - University of Washington, Information School       
 - [Sebastian Karcher](https://www.sebastiankarcher.com/) (Co-PI) - Qualitative Data Repository, Syracuse University       
