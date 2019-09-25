@@ -5,10 +5,6 @@ nav_order: 2
 
 ---
 
-<br>
-<p>
-
-
 - [Nic Weber](https://nicweber.info/) (PI) - University of Washington, Information School       
 - [Sebastian Karcher](https://www.sebastiankarcher.com/) (Co-PI) - Qualitative Data Repository, Syracuse University       
 - [Kristal Jones](https://www.sesync.org/users/kjones) (Co-PI) - SESYNC
