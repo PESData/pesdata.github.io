@@ -2,7 +2,7 @@
 
 PESD is a research project between the DataLab at the University of Washington, the Qualitative Data Repository at Syracuse University, and the Socioenvironmental Synthesis Center (SESYNC) with funding from the [Alfred P. Sloan foundation]().
 
-The goal of this project is to better support qualitative and mixed methods researchers managing, sharing, and reusing privacy senstive data. PESD's work is in response to a recognized sociotechnical gap between the desire of researchers to share and learn from one another's data on the one hand, and the tools available to reliably facilitate the exchange and reuse of privacy sensitive data on the other. 
+The goal of this project is to better support qualitative and mixed methods researchers managing, sharing, and reusing privacy sensitive data. PESD's work is in response to a recognized sociotechnical gap between the desire of researchers to share and learn from one another's data on the one hand, and the tools available to reliably facilitate the exchange and reuse of privacy sensitive data on the other. 
 
 Through a set of case studies, interviews, and conceptual modeling exercises our team will build a set of privacy encodings that can travel with data as they are shared between people and machines. By better facilitating the reliable exchange of these data we can work towards a network of data producers and consumers that trust repository software to facilitate these types of interactions.  
 
